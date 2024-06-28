@@ -1,0 +1,6 @@
+2024-06-10 09:27:45,503 - INFO - Processing file: symptemist_tsv_train_subtask2.tsv - es (data_generator.py:63)
+2024-06-10 09:27:45,743 - INFO - Loading and splitting dataframe from ../../../data/SympTEMIST/symptemist-complete_240208/symptemist_train/subtask2-linking/symptemist_tsv_train_subtask2.tsv. (utils.py:218)
+2024-06-10 09:27:45,766 - INFO - Dataframe loaded and split completed. (utils.py:234)
+2024-06-10 09:27:45,899 - INFO - Adding semantic tags to dataframe directly based on the code. (utils.py:254)
+2024-06-10 09:28:22,096 - INFO - Adding semantic tags to dataframe directly based on the code. (utils.py:254)
+2024-06-10 09:28:22,611 - INFO - Generation data process completed. Files in: ../data/SympTEMIST/es/ (data_generator.py:106)
